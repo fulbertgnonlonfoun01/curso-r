@@ -1,4 +1,4 @@
-sites_ID,Country,State,Municipality,Study Location,Latitude,Longitude,Precision,Reserve_Area,Altitude,Altitude1km,A_mean_temp,A_rainfall,Olsong200r,Olsoneconame,Ribeirovegtype,BSRs
+sites_ID,Country,State,Municipality,Study_Location,Latitude,Longitude,Precision,Reserve_Area,Altitude,Altitude1km,A_mean_temp,A_rainfall,Olsong200r,Olsoneconame,Ribeirovegtype,BSRs
 bor1001,Brazil,RIO GRANDE DO SUL,MAQUINE,Maquine,-29.58333333,-50.26666667,13000,NA,100-300,305,18.68,1568,Atlantic Forests,Araucaria moist forests,Floresta Ombrofila Mista,Florestas de Araucaria
 bor1002,Brazil,RIO GRANDE DO SUL,SAO FRANCISCO DE PAULA,Floresta Nacional de Sao Francisco de Paula,-29.423669,-50.386914,2200,1615,900,917,14.94,2083,Atlantic Forests,Araucaria moist forests,Estepe,Florestas de Araucaria
 bor1003,Brazil,RIO GRANDE DO SUL,SANTA MARIA,Santa Maria,-29.747514,-53.838197,30,NA,50-100,99,19.86,1665,NA,Uruguayan savanna,Areas de Tensao Ecologica,Florestas de Interior
